@@ -9,3 +9,9 @@
     - mysqlcheck : check and repair database
     - msqldump : backup database
     - mysql : restore database and run sql commands (select,...)
+
+### Backup Database
+    - Backup all database
+    - Backup database on demand
+    - Backup table in database
+    - Lập lịch sao lưu tự động
